@@ -1,1 +1,3 @@
 # APIsamuca
+missão
+valores visão
